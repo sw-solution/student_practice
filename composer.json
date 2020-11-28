@@ -1,0 +1,7 @@
+{
+    "require": {
+        "vlucas/valitron": "^1.4",
+        "vfou/php-search": "1.1",
+        "php-ai/php-ml": "^0.9.0"
+    }
+}
